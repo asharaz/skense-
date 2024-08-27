@@ -113,24 +113,29 @@ hosts_file.truncate()
 ## Output
 
 We first run the code to block/unblock any website.
-![Screenshot 2024-08-26 112009](https://github.com/user-attachments/assets/7c54a629-238f-4650-9ef9-cf1c3535db7d)
+![Screenshot 2024-08-26 112009](https://github.com/user-attachments/assets/510a2e6a-cbfa-4e16-8b66-4e0be2210cb3)
+
 
 
 
 we need to input the required option.Enter the webiste that need to be blocked.
-![Screenshot 2024-08-26 112044](https://github.com/user-attachments/assets/6effa785-6f33-49ad-b8be-59b50b548b89)
+![Screenshot 2024-08-26 112044](https://github.com/user-attachments/assets/be6e49a5-ef50-4b1c-9f04-2216393caecd)
+
 
 
 the enetered url is blocked and if you enter the webiste url it wont connect to the server.
-![Screenshot 2024-08-26 112103](https://github.com/user-attachments/assets/46b235ae-2f5a-4c59-bfea-29cd8c1cdcb7)
+![Screenshot 2024-08-26 112103](https://github.com/user-attachments/assets/3dbc5c35-ff14-4524-8672-8e09b59794fa)
+
 
 
 Now to unblock follow the same procedure but enter unblock.
-![Screenshot 2024-08-26 112552](https://github.com/user-attachments/assets/6e0aae02-9ec3-4e9a-bcb4-0a17cb32f3a6)
+![Screenshot 2024-08-26 112552](https://github.com/user-attachments/assets/be3c9472-5890-4eaf-bc3b-3c38fe215c90)
+
 
 
 The website is now unblocked and it connects to the server.
-![Screenshot 2024-08-26 112626](https://github.com/user-attachments/assets/88494320-9689-494c-b592-852d0e90af34)
+![Screenshot 2024-08-26 112626](https://github.com/user-attachments/assets/6c840362-1491-40e8-bd0c-39289bfe2e76)
+
 
 
 
