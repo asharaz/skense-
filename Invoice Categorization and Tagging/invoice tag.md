@@ -168,10 +168,13 @@ if __name__ == "__main__":
 
 ## Output
 Initially create a csv file with text and category in order to create a model.
-![img_13.png](img_13.png)
+![Screenshot 2024-08-26 133728](https://github.com/user-attachments/assets/f89c9966-9738-48af-9e14-bd8cf29628fb)
+
 
 Add the path of the file that you need to predict the category.here is the image of the invoice i would like to predict.
-![img_14.png](img_14.png)
+![medical-store-cash-memo](https://github.com/user-attachments/assets/bdd31811-c76e-4a03-9e17-6f4395057e8c)
+
 
 Now run the code,the code will predict the which category does it belongs to.
-![img_15.png](img_15.png)
+![Screenshot 2024-08-26 133752](https://github.com/user-attachments/assets/bc0cc853-67ed-48b6-8233-c4023afac196)
+
