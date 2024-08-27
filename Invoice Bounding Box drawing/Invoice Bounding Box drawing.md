@@ -185,7 +185,8 @@ st.write("Processed Pages:")
 
 ## Output
 Run the code,as soon as it runs you will have to run a streamlit command on command prompt.
-![Screenshot 2024-08-26 112626](https://github.com/user-attachments/assets/d4e2c9ed-1597-4ea2-baf8-e75a3b29aee4)
+![Screenshot 2024-08-26 114302](https://github.com/user-attachments/assets/8865d736-6df0-47f1-b994-2a4f8738ccea)
+
 
 
 
