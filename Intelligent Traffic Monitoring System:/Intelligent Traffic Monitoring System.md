@@ -308,16 +308,19 @@ if __name__ == '__main__':
 ## Output
 
 Run the code , make sure the path of the vedio is changed accordingly.
-![1](https://github.com/user-attachments/assets/61414c92-f151-4b46-a9d5-ab73ab2ed081)
+![Screenshot 2024-08-26 124609](https://github.com/user-attachments/assets/3865f6c7-f8ce-4852-891e-cd7dd4009b36)
+
 
 
 copy the link and paste it on the browser, a new page will open with live vedio feed and download vedio feed.
-![Screenshot 2024-08-26 124656](https://github.com/user-attachments/assets/196f531b-163f-4072-9de3-9c150aac8fc2)
+![Screenshot 2024-08-26 124656](https://github.com/user-attachments/assets/16967374-7207-4401-93aa-2d476116a6b6)
+
 
 
 If you choose the live video feed it will show on the page without downloading it.
-![Screenshot 2024-08-26 124711](https://github.com/user-attachments/assets/10133f3d-c66b-4770-a630-7a5a559727a8)
+![Screenshot 2024-08-26 124711](https://github.com/user-attachments/assets/909492ed-6f9e-43cd-9eb9-1a3dd997e391)
 
 
 If you choose download process video , it will be downloaded on the output path that is mentioned in the code.
-![Screenshot 2024-08-26 125207](https://github.com/user-attachments/assets/27fd2a99-6d88-482d-85db-52d510926513)
+![Screenshot 2024-08-26 125207](https://github.com/user-attachments/assets/a6ba1bb9-f1c8-4011-9c80-61f5066d2f8d)
+
