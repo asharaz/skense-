@@ -65,13 +65,16 @@ print(translated_text)
 2. Ensure Tesseract-OCR is installed and the path to the executable is correctly set in the script.
 
 ## Output 
-Before running the code make sure the file path is changed accordingly.the file path added here take to images as shown.
-![img_16.png](img_16.png)
+Before running the code make sure the file path is changed accordingly.the file path added here takes to images as shown.
+![Rechnung-Vorlage-Deutsch (1)](https://github.com/user-attachments/assets/16d3be45-d745-4939-9703-d6d03427cb3d)
+
 
 As soon as you the run code,the code extracts all the text from the file.
-![img_17.png](img_17.png)
+![Screenshot 2024-08-26 135515](https://github.com/user-attachments/assets/343dcb31-c5b6-4d13-a613-b499f2c73c3e)
+
 
 It then translates the words to common known language in english.
-![img_18.png](img_18.png)
+![Screenshot 2024-08-26 135713](https://github.com/user-attachments/assets/94c310d4-4487-4122-b012-c05dfd2b925b)
+
 
 
