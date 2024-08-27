@@ -185,16 +185,20 @@ st.write("Processed Pages:")
 
 ## Output
 Run the code,as soon as it runs you will have to run a streamlit command on command prompt.
-![Screenshot 2024-08-26 114302](https://github.com/user-attachments/assets/c03133af-2c80-4611-b824-12cb4431a399)
+![Screenshot 2024-08-26 112626](https://github.com/user-attachments/assets/d4e2c9ed-1597-4ea2-baf8-e75a3b29aee4)
+
 
 
 Copy the above command and run in the command prompt which will create a link on the url.
-![Screenshot 2024-08-26 114334](https://github.com/user-attachments/assets/16e9fe1d-eaa9-487c-be1c-8ff3c3ed7a1f)
+![Screenshot 2024-08-26 114334](https://github.com/user-attachments/assets/db0df012-a618-437a-b962-f790404a3041)
+
 
 
 Now copy the url and paste it on your browser you will be redirected to the streamlit ui.
-![Screenshot 2024-08-26 114406](https://github.com/user-attachments/assets/6f971ac3-7ca2-42e4-b0b0-ad5b0dadd4d4)
+![Screenshot 2024-08-26 114406](https://github.com/user-attachments/assets/ea6797da-d138-4232-a00d-abf8a0969967)
+
 
 
 Here you can browse the file that you need to be bounded ,once you select the file it shows you the output.
-![1](https://github.com/user-attachments/assets/2303dcc6-e3c3-424e-880c-40f1da5fa021)
+![1](https://github.com/user-attachments/assets/c5cb9ea8-5c53-4674-b73c-c317876fc7f2)
+
