@@ -159,19 +159,25 @@ if __name__ == "__main__":
 Initially check the csv file created with text and sentiments and run the model code to create the model.
 
 
-![img_19.png](img_19.png)
+![Screenshot 2024-08-27 124601](https://github.com/user-attachments/assets/dc89abde-eea6-43bb-b85a-d7b1bb8f00b1)
+
 
 When you run the main code,its provides you with the url http://127.0.0.1:8000,now copy this url and paste on the browser.
-![img_20.png](img_20.png)
+![Screenshot 2024-08-27 124635](https://github.com/user-attachments/assets/08fc7108-bf22-4935-9174-53f2214197cf)
+
 
 when you run on the browser, you will get a page saying the message.
-![img_21.png](img_21.png)
+![Screenshot 2024-08-27 124655](https://github.com/user-attachments/assets/7c229324-f3ad-498f-a3c4-5d306fde1b0b)
+
 
 Now open the page with url http://127.0.0.1:8000/docs ,this to open the fast api page.
-![img_22.png](img_22.png)
+![Screenshot 2024-08-27 124718](https://github.com/user-attachments/assets/9b788050-6c5c-4484-b4bd-a119e11f1bb6)
+
 
 In the fast API page,click on post dropdown,where you would be able to writen the sentiment.
-![img_23.png](img_23.png)
+![Screenshot 2024-08-27 124902](https://github.com/user-attachments/assets/9f7ac928-80ca-46ee-a9f9-96da6d66a8ac)
+
 
 After Writing the sentiment scroll down and click the execute button to the see the output result.
-![img_24.png](img_24.png)
+![Screenshot 2024-08-27 130232](https://github.com/user-attachments/assets/42960de1-9d15-4fc4-9435-2d1f824f29b8)
+
